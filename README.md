@@ -6,7 +6,7 @@ Welcome to my portfolio! This document summarizes the key projects, collaboratio
 
 ---
 
-## 1. VCH Infrastructure – Modular Research Ecosystem
+## 1. VCH Infrastructure – Modular Research Ecosystem Thomas Mazuri (Capgemini)
 
 A fully integrated, open-source research ecosystem designed to streamline supply chain finance innovation. It’s a modular infrastructure that empowers academics, researchers, and students to collaborate, analyze, and solve complex problems more efficiently than ever before.
 
@@ -18,7 +18,7 @@ A fully integrated, open-source research ecosystem designed to streamline supply
 
 A privacy-respecting, locally hosted AI infrastructure using large language models. Part of my server stack to enable self-hosted semantic analysis, document processing, and AI reasoning.
 
-🔗 [Local AI Packaged GitHub](https://github.com/coleam00/local-ai-packaged)
+🔗 [Local AI Packaged GitHub](https://github.com/Value-Chain-Hackers/Ixworks-ai-packaged)
 
 ---
 
@@ -27,20 +27,15 @@ A privacy-respecting, locally hosted AI infrastructure using large language mode
 An open-source platform combining AI, knowledge graphs, and ESG datasets to build transparent and sustainable supply chains. In use in education, EU research projects, and due diligence pilots.
 
 🔗 [Knopenkoning GitHub](https://github.com/Value-Chain-Hackers/KnopenKoning)
-
+now Remade and Redone here: 
+https://github.com/Value-Chain-Hackers/ConflictChain
 ---
 
 ## 4. ClearRoots – Sustainable Document Processing (NICE Project)
 
-Together with Luka Westgeest (CTO of AG-Unity), I work on AI-driven document processing and sustainability tracking, focused on transparency in supply chains and environmental projects.
+Together with Luka Westgeest (windesheim) and Stefan Barrett (CTO of AG-Unity), I work on AI-driven document processing and sustainability tracking, focused on transparency in supply chains and environmental projects.
 
 🔗 [ClearRoots GitHub](https://github.com/Value-Chain-Hackers/ClearRoots)
-
----
-
-## 5. Infrastructure Collaboration with Thomas Mazuri (Capgemini)
-
-Collaboration to set up a robust AI and container-based infrastructure to support document management, supply chain reasoning, and large-scale AI experimentation.
 
 ---
 
