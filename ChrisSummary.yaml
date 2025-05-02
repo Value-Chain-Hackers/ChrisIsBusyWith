@@ -492,3 +492,161 @@ languages:
   - English: Fluent
   - German: Basic conversational
 
+ikigai_map:
+  what_you_love:
+    - Designing systems that help others grow
+    - Exploring ethical and sustainable tech
+    - Mentoring students and teams
+    - Storytelling through code, simulation, and play
+    - Hacking and open-source tinkering
+    - Building communities with real-life impact
+
+  what_you_are_good_at:
+    - Connecting ideas across disciplines
+    - Leading agile innovation and education labs
+    - Translating complex systems into usable tools
+    - Rapid prototyping (tech, org, education)
+    - Strategic foresight and systems thinking
+    - Teaching and motivating diverse groups
+
+  what_you_can_be_paid_for:
+    - AI and automation system design
+    - Blockchain governance and infrastructure
+    - Fintech, compliance, and sustainability reporting
+    - Agile workshops and education delivery
+    - Systems architecture and DevOps mentoring
+    - Open-source tool integration and consulting
+
+  what_the_world_needs:
+    - Trustworthy, privacy-friendly tech
+    - Tools that turn sustainability into competitive advantage
+    - Open, accessible learning environments
+    - More equitable, inclusive digital governance
+    - Systems that reward good practices
+    - Transparent and accountable supply chains
+
+  overlaps:
+    passion:
+      description: "Love + Good at"
+      elements:
+        - Building innovative learning environments
+        - Designing purpose-driven tech
+        - Storytelling through labs, tools, and narrative games
+
+    profession:
+      description: "Good at + Paid for"
+      elements:
+        - AI architecture consulting
+        - Agile training and curriculum building
+        - Building open source compliance tooling
+
+    vocation:
+      description: "Paid for + World needs"
+      elements:
+        - Building sustainability AI dashboards
+        - Enabling SMEs to meet EU regulations
+        - Architecting identity and governance tools
+
+    mission:
+      description: "Love + World needs"
+      elements:
+        - Creating ethical AI and wearable tools
+        - Teaching systems thinking through open learning
+        - Building tools for economic dignity and resilience
+
+  tensions:
+    passion_and_mission_no_pay:
+      description: "Delight and impact — but hard to sustain"
+      examples:
+        - Free educational tools without business model
+        - Experimental projects with no client funding
+
+    profession_and_vocation_no_love:
+      description: "Competent and stable — but personally dry"
+      examples:
+        - Routine consulting work without meaning
+        - DevOps support without innovation
+
+    mission_and_vocation_no_skill:
+      description: "Inspiring direction — but technical execution lags"
+      examples:
+        - Wearable AI ideas that need prototyping support
+        - Educational games requiring external developers
+
+    passion_and_profession_no_impact:
+      description: "Fun and creative — but doesn’t serve others"
+      examples:
+        - Simulation systems with no user testing
+        - Concept tools not linked to real-world change
+
+  ikigai_center:
+    description: >
+      Where all four meet: building open-source AI tools and platforms
+      that empower sustainable development through measurable, usable, and ethical systems.
+    working_examples:
+      - Value Chain Hackers (VCH Infra)
+      - ClearRoots impact mapping
+      - DAT Linux for researchers
+      - Wearable local AI for good practice nudging
+
+paid_offers:
+  - name: Self-Hosted AI Assistant & Report Automation
+    audience: Researchers, NGOs, ethical startups, consultants
+    description: >
+      Set up a secure, privacy-first AI system that answers questions, summarizes documents,
+      and generates automated reports from spreadsheets or dashboards. No external API costs.
+    deliverables:
+      - Dockerized deployment of OpenWebUI + Ollama + n8n
+      - Automated flow for spreadsheet/PDF report generation
+      - Setup of 1–3 prompt templates for use cases (e.g. compliance, finance, HR)
+      - Documentation + 1-hour onboarding session
+    tools:
+      - n8n, Ollama, OpenWebUI, Supabase, Python
+    duration: 5–7 days
+    starting_price_eur: 2500
+
+  - name: CSRD / EUDR Supply Chain Risk Dashboard
+    audience: SMEs, importers, sustainable brands, incubators
+    description: >
+      A functional prototype dashboard that maps your supply chain data
+      against CSRD/EUDR indicators and flags potential compliance gaps.
+    deliverables:
+      - Configurable dashboard (hosted or embedded)
+      - Uploadable or linked data input (CSV, Notion, Google Sheets)
+      - Risk/impact estimation logic using custom YAML schemas
+      - 2-hour strategic consultation with exportable PDF summary
+    tools:
+      - Supabase, Quarto/React, YAML models, VCH Infra elements
+    duration: 7–10 days
+    starting_price_eur: 4000
+
+  - name: Agile Sustainability Simulation Workshop
+    audience: Universities, NGOs, logistics firms, corporate innovation teams
+    description: >
+      A 1- to 2-day hands-on training where participants simulate
+      sustainable supply chain decisions using your Blockchain Beer Game
+      and real-world agile practices.
+    deliverables:
+      - Customizable simulation (logistics or compliance scenario)
+      - Workshop delivery (in-person or online)
+      - Debrief, team feedback, and next-step templates
+    tools:
+      - R Studio, board-based simulation, agile frameworks
+    duration: 1–2 days (+ prep)
+    starting_price_eur: 2000
+
+  - name: Open Infrastructure Strategy Session
+    audience: Research labs, accelerators, ecosystem builders
+    description: >
+      A 2-session consultation where I map your digital infrastructure needs and
+      design a modular, open-source setup to match your goals — including hosting, automation,
+      team workflows, and data architecture.
+    deliverables:
+      - Infra architecture diagram (PDF or Miro/Notion)
+      - Component-by-component stack proposal
+      - Risk/cost estimation and migration advice
+    tools:
+      - Caddy, Docker, Supabase, DAT Linux, R Studio, Obsidian, GitHub
+    duration: 3–5 hours (1 week cycle)
+    starting_price_eur: 1200
+
