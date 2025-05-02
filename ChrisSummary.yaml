@@ -1,0 +1,494 @@
+full_name: Christiaan Verhoef
+personality_profile:
+  type: ENFP-T
+  traits:
+    strengths:
+    - Enthusiastic and driven when exploring new ideas or building something meaningful
+    - Exceptionally creative and quick to connect complex concepts across disciplines
+    - Charismatic communicator; can rally others around a vision or cause
+    - Highly adaptable under pressure; comfortable with ambiguity and improvisation
+    - Intellectually curious with a deep need to understand 'why' and 'how'
+    - Willing to lead when others hesitate — especially in high-uncertainty settings
+    - Able to operate independently, often without needing structure or supervision
+    - Naturally entrepreneurial; gravitates toward initiative and innovation
+    - Deep commitment to values, fairness, and ethics in systems
+    watchpoints:
+    - Can overextend or burn out from trying to do too much at once
+    - Prone to self-doubt or impostor syndrome despite real achievements
+    - Sometimes starts more than is finished — idea surplus, execution bottleneck
+    - Can become easily bored or frustrated by bureaucracy, repetition, or slow systems
+    - May unintentionally outshine or overshadow quieter collaborators
+    - Has difficulty slowing down or saying “no” when excited about a challenge
+    - Needs external validation to counterbalance internal pressure and idealism
+    - Tends to undervalue own technical depth due to breadth of focus and humility
+preferred_work_style:
+- Independent but collaborative
+- High-agency environments with room for experimentation
+- Project-based or mission-aligned work over routine tasks
+- Values openness, pragmatism, and speed over formality
+motivators:
+- Working on big problems with purpose
+- Seeing visible impact of ideas turned into systems
+- Mentoring others and building capacity
+- Combining ethics, tech, and economics for better futures
+stress_triggers:
+- Rigid structures without room for iteration
+- Lack of recognition for hidden or strategic work
+- Being isolated from decision-making or impact
+- Too much operational grind without vision anchoring
+
+
+professional_summary:
+  core_skills:
+    - Innovation Management
+    - Agile Project Leadership (Scrum, Kanban, SafeScrum)
+    - Open Source & AI Technologies
+    - Blockchain & Cryptography
+    - Fintech & Sustainable Finance
+    - Privacy-focused Technology Development
+    - Education & Knowledge Sharing
+    - Data Analysis & Strategic Thinking
+    - Automation & DevOps
+    - Forensic Investigation & Security Analysis
+
+  technical_skills:
+    programming_languages:
+      - Python
+      - JavaScript
+      - Java SE8
+      - C#
+      - Bash scripting
+      - SQL
+
+    blockchain_technologies:
+      - Ethereum
+      - HyperLedger (Fabric, Swarm)
+      - EOSIO
+      - Smart Contracts
+
+    devops_cloud:
+      - Kubernetes
+      - Docker
+      - GitHub CI/CD
+      - Jenkins
+      - Puppet
+      - Cloud Computing
+      - Oracle SOA (11g & 12c)
+
+    databases_datawarehouses:
+      - MySQL
+      - PostgreSQL
+      - Microsoft SQL Server
+      - Pentaho
+      - Cognos
+      - QlikSense
+      - Grafana
+      - Datawarehouse Design
+
+    operating_systems_networking:
+      - CentOS, Kali Linux, Ubuntu, Debian
+      - Windows Server (2003, 2007)
+      - Linux Honeypots
+      - Oracle Virtual Box
+      - Raspberry Pi, Arduino hardware setups
+      - NAS, SAS systems
+
+    other_software_tools:
+      - MQTT, NodeRed
+      - React, P5.js
+      - Visio, Prezi, NextCloud
+      - Microsoft Office 365 (Admin)
+      - Discovery Web & SiteCom
+      - Nagios
+      - UML diagrams
+      - WITSML standard
+      - Hardware & Electronics setup
+
+career_timeline:
+  current_roles:
+   - title: Lab Manager
+  organization: Spark! Living Lab, Hogeschool Windesheim
+  duration: Jan 2020 – Present
+  location: Zwolle, Netherlands
+  responsibilities:
+    - Founded and led a blockchain-focused innovation lab serving SMEs during the COVID-19 pandemic.
+    - Delivered multiple blockchain prototypes for logistics companies using minimal resources.
+    - Designed and expanded the “Blockchain Beer Game” to simulate flexible, real-time supply chains.
+    - Facilitated hands-on agile training using Scrum, Kanban, and SafeScrum methodologies.
+    - Provided expert guidance in digitizing the Supply Chain Finance (SCF) ecosystem.
+    - Led forensic research into COVID-19-related data patterns and their societal impact.
+    - Mentored student teams and facilitated self-organizing agile work structures.
+    - Acted as a bridge between academia, SMEs, and tech providers to evaluate tech readiness.
+    - Helped establish a national network of innovation hubs integrating future and legacy technologies.
+    - Regularly delivers high-impact Agile workshops, including corporate sessions (e.g., Scania Agile Workshop 2023).
+
+- title: Co-Founder & Project Lead
+  organization: Tonomy Foundation
+  duration: May 2022 – Present
+  location: Baarn, Netherlands (Remote / International)
+  responsibilities:
+    - Co-founded a nonprofit focused on open-source identity, governance, and decision-making tools for blockchain ecosystems.
+    - Designed privacy-preserving infrastructure that mitigates over 87% of known cyberattack vectors.
+    - Led development of advanced identity middleware compatible with EOSIO and other DLT platforms.
+    - Developed decentralized governance tooling to enable more inclusive and transparent decision-making in public and enterprise contexts.
+    - Managed full agile-scrum delivery cycles, including sprint planning and backlog prioritization.
+    - Led strategic business development including onboarding, stakeholder engagement, and investor communications.
+    - Oversaw human resources, marketing strategy, and community management across multiple platforms.
+    - Built and maintained team culture while motivating highly technical talent, including volunteers.
+    - Represented the foundation at technical, academic, and governance-related blockchain events.
+    - Worked closely with co-founder to divide leadership responsibilities across vision, execution, and ecosystem partnerships.
+
+- title: Founder
+  organization: Value Chain Hackers (sub-project of Hogeschool Windesheim)
+  duration: Jan 2024 – Present
+  location: Amsterdam, Netherlands
+  responsibilities:
+    - Founded a cross-European initiative to transform supply chains through AI-powered traceability and compliance tools.
+    - Designed and led the development of AI-based supply chain mapping tools to support CSRD, CSDDD, and EUDR compliance.
+    - Positioned the lab as a neutral partner for sustainable logistics, ESG reporting, and SME digital transformation.
+    - Coordinated with academic researchers, logistics experts, startups, and public institutions to collect and align sustainability metrics.
+    - Hosted workshops and seminars on transparency, digitalization, and supply chain ethics.
+    - Enabled collaboration between students, researchers, and industry partners to validate real-world use cases.
+    - Acted as principal investigator and public representative for the Windesheim Supply Chain Finance lectorate’s innovation agenda.
+
+- title: Project Manager / Teacher
+  organization: Windesheim University of Applied Sciences
+  duration: Jan 2020 – Present
+  location: Zwolle, Netherlands
+  responsibilities:
+    - Led radical educational innovation projects, including cross-curricular integrations and agile transformation.
+    - Taught data science, project management, blockchain applications, and AI ethics to undergraduate and postgraduate students.
+    - Designed and supervised student-led projects in logistics, blockchain, and sustainability.
+    - Supported interdisciplinary initiatives between business, IT, logistics, and finance departments.
+    - Acted as liaison between research groups (like the Lectoraat Supply Chain Finance) and practical student learning.
+    - Provided hands-on coaching in prototyping, agile methods, and AI literacy.
+    - Integrated research findings and lab experiences (e.g., Spark!, Value Chain Hackers) into classroom education.
+    - Contributed to institutional digitization efforts and curriculum modernization.
+    - Co-authored and reviewed educational frameworks that emphasize experiential and self-directed learning.
+
+- title: Blockchain Simulation Trainer
+  organization: 2bSMART
+  duration: Sep 2020 – Jun 2022
+  location: Amsterdam, Netherlands
+  responsibilities:
+    - Delivered professional training programs on blockchain technology through interactive logistics simulations.
+    - Used IoT-enabled devices and scenario-based learning to teach supply chain professionals across the Benelux.
+    - Helped design and refine the Smartys simulation platform to make blockchain concepts accessible and engaging.
+    - Worked with educational institutions and SMEs to demonstrate blockchain's potential in traceability and automation.
+    - Contributed to curriculum development, training delivery, and real-time system demonstrations.
+
+- title: Technical Advisor
+  organization: Interactive
+  duration: Aug 2021 – Aug 2022
+  location: Netherlands
+  responsibilities:
+    - Performed a technical review of an early-stage startup's codebase at the request of potential investors.
+    - Gave a go-ahead recommendation based on code quality and team assessment.
+    - Informed a small seed investment decision within your personal network.
+    - Maintained occasional contact with the team but held no operational role.
+
+- title: Freelance Senior Project Manager
+  organization: Social Chicken
+  duration: Aug 2016 – May 2022
+  location: Netherlands
+  responsibilities:
+    - Delivered freelance IT and infrastructure solutions to SMEs via an ad hoc network of hackers and makers.
+    - Led projects including database migrations, private cloud setups, business intelligence implementations, and server deployments.
+    - Assembled custom project teams for short- and mid-term tech delivery, leveraging hacker/maker spaces.
+    - Supported clients with secure and privacy-focused systems built from open-source components.
+    - Focused on pragmatic, efficient, and scalable results for clients without large IT departments.
+
+
+- title: Community Development Manager
+  organization: The New Fork (now OpenFoodChain)
+  duration: Apr 2022 – Apr 2024
+  location: Amsterdam, Netherlands
+  responsibilities:
+    - Led the community-building and engagement strategy for a blockchain-based food supply chain ecosystem.
+    - Promoted the adoption of the $FOOD token by connecting with key stakeholders in agri-tech, logistics, and sustainability.
+    - Organized workshops, events, and digital campaigns to grow the OpenFoodChain user base and developer community.
+    - Served as liaison between technical teams, investors, and user communities to drive platform feedback and alignment.
+    - Helped transition The New Fork's identity and infrastructure into OpenFoodChain while preserving its mission-driven ethos.
+    - Developed onboarding materials and documentation to support new partners, contributors, and token users.
+    - Evangelized blockchain’s potential in the food industry through talks, meetups, and social channels.
+
+
+  previous_roles:
+   - title: Laboratory Operations Manager
+  organization: Aeres Hogeschool Dronten
+  duration: Feb 2021 – May 2022
+  location: Dronten, Netherlands
+  responsibilities:
+    - Served as the driving force behind the Aeres Innovation Lab, emphasizing grassroots innovation and curriculum transformation.
+    - Consolidated 8 traditional courses into one cross-disciplinary project using SafeScrum and Agile principles, developed in under two months.
+    - Successfully integrated project-based learning with high levels of student engagement and ownership.
+    - Automated administrative workflows, email communications, and project coordination to reduce organizational workload and increase throughput.
+    - Mentored students and staff to adopt Agile mindsets and practices within educational and research settings.
+    - Incubated a startup within the Startup Program InHolland that went on to secure a €2M investment round.
+    - Advocated for lean, tech-enabled education models and introduced operational efficiencies in learning environments.
+
+- title: Technical Business Development Manager
+  organization: COTIT
+  duration: Jan 2024 – Jul 2024
+  location: Utrecht, Netherlands
+  responsibilities:
+    - Led a strategic pivot for a modular white-label platform focused on logistics, WMS, ERP, and financial integrations.
+    - Conducted in-depth business diagnostics to identify process inefficiencies and product-market fit misalignments.
+    - Designed and implemented new operational structures to align teams with high-value delivery outcomes.
+    - Acted as interim product strategist, prioritizing customer-facing features and clarifying internal development goals.
+    - Introduced agile collaboration frameworks and helped reorient the team around rapid iteration.
+    - Positioned the company as a partner-ready, composable solution provider for complex supply chain platforms.
+    - Advised on rebranding and go-to-market strategy aligned with enterprise software trends and European compliance standards.
+
+- title: Advisor & Seed Investor
+  organization: Magic Frames NL
+  duration: Sep 2022 – Present
+  location: Amsterdam, Netherlands
+  responsibilities:
+    - Provided early-stage investment and mentorship for a student-led creative startup.
+    - Advised on technical direction, business modeling, and partnership opportunities.
+    - Supported the founder(s) in navigating early product development and institutional support.
+    - Helped position the startup within the intersection of media, technology, and innovation ecosystems.
+    - Acted as a sounding board for storytelling formats, prototyping methods, and grant readiness.
+
+- title: Head Trainer / Trainer
+  organization: The Fork
+  duration: Feb 2018 – Jan 2020
+  location: Amsterdam, Netherlands
+  responsibilities:
+    - Delivered professional training on emerging food technology and blockchain applications in the agri-food sector.
+    - Led a team of trainers and interns, coordinating program delivery and curriculum development.
+    - Provided strategy planning, innovation mentoring, and technical coaching to professionals and startups.
+    - Advocated for early adoption of digital technologies in food traceability and logistics.
+    - Developed materials to help participants understand the societal and technical implications of digital transformation in food systems.
+
+- title: Lab Manager
+  organization: Viridis – Green-Tech Investment AG
+  duration: May 2024 – Present
+  location: Munich, Germany
+  responsibilities:
+    - Leading the establishment of a new development lab focused on sustainable investment technologies.
+    - Supporting Viridis in building out technical capacity for green-tech prototyping and validation.
+    - Advising on lab architecture, partner integration, and research direction aligned with ESG goals.
+    - Connecting European sustainability initiatives with green-finance tooling and innovation pilots.
+    - Bridging academic, startup, and investor networks to support early-stage development of climate-aligned solutions.
+
+- title: ICT & Programming Teacher
+  organization: ROC Midden Nederland
+  duration: Oct 2018 – Jan 2020
+  location: Utrecht, Netherlands
+  responsibilities:
+    - Taught programming, networking, robotics, and project management to vocational students.
+    - Helped modernize teaching methods using Scrum and conscious competence frameworks.
+    - Guided students through hands-on learning with technologies such as JavaScript, DevOps tools, and application development.
+    - Contributed to curriculum design focused on real-world applicability and future-proofing technical education.
+    - Supported institutional innovation initiatives and collaborated with other teachers on cross-disciplinary projects.
+
+- title: Programming Teacher
+  organization: FluXus – Centrum voor de Kunsten
+  duration: Jan 2018 – Sep 2018
+  location: Netherlands
+  responsibilities:
+    - Taught programming fundamentals to children using interactive software and hardware platforms.
+    - Created engaging lesson plans focused on logic, creativity, and technology confidence.
+    - Used tools such as Arduino, Scratch, and basic robotics to introduce coding concepts in an accessible way.
+    - Helped students build confidence in working with technology through experimentation and play.
+    - Advocated for programming to be treated as a core life skill, equal in importance to math and language education.
+
+- title: Consultant / Blockchain Trainer (Short-Term Engagement)
+  organization: inblock.io
+  duration: Sep 2017 – Mar 2018
+  location: Berlin, Germany
+  responsibilities:
+    - Participated in early-stage training and consulting projects on blockchain technologies.
+    - Provided brief technical input and supported one client-facing initiative.
+    - Engagement ended early due to misalignment in strategic direction.
+
+- title: General Manager (Family Business)
+  organization: V.O.F Verhoef (Chris Chicken)
+  duration: Oct 2013 – Jun 2017
+  location: Amsterdam, Netherlands
+  responsibilities:
+    - Supported operations and customer service at a well-known poultry stand on the Albert Cuyp market.
+    - Took on increased responsibility over time, including strategic planning and supply logistics.
+    - Contributed to modernization efforts and streamlined day-to-day processes.
+    - Participated in sales, inventory, and coordination during high-demand periods.
+    - Involved in the business since youth as part of the family.
+
+- title: Field Service Engineer
+  organization: KONGSBERG
+  duration: Jan 2012 – Sep 2012
+  location: Kristiansand, Norway
+  responsibilities:
+    - Delivered business intelligence and data integration solutions for major oil and gas clients including BP and Statoil.
+    - Installed and configured hardware and software (Windows Server 2008, RAID, Oracle, MySQL).
+    - Handled data quality assurance and negotiated data transfer protocols with third parties.
+    - Managed system documentation, training, and custom template creation for internal and client use.
+    - Acted as a 2nd/3rd line support contact and performed incident resolution.
+    - Returned to the Netherlands to complete BBA studies after contract period.
+
+- title: System Manager / Researcher
+  organization: Meerschap B.V
+  duration: Jul 2010 – Jan 2011
+  location: Amsterdam, Netherlands
+  responsibilities:
+    - Adapted and configured Nagios monitoring for internal service desk operations.
+    - Supported system users and performed on-site hardware installations at client locations.
+    - Developed Microsoft Word macros and templates to automate document generation for mortgage and legal offices.
+    - Maintained IT infrastructure for pharmacies and small healthcare providers.
+    - Assisted with service desk workflow improvements and helped land new SME clients.
+    - Returned to university afterward to focus on completing studies in Business IT.
+
+- title: Technical Support Engineer
+  organization: WDS Global Limited
+  duration: Mar 2009 – Jun 2010
+  location: Poole, England, United Kingdom
+  responsibilities:
+    - Provided 2nd line technical support for HTC mobile devices across multiple carriers.
+    - Created email response templates and workflow improvements to help reduce a 10,000+ email support backlog.
+    - Served as a consultant for Mobistar, Orange, and Tesco, delivering internal product training and support.
+    - Identified opportunities for product innovation in customer support and submitted proposals to regional management.
+    - Gained early exposure to Symbian and Windows Mobile platforms, 3G/UMTP protocols, and carrier-specific setups.
+    - This role inspired a deeper interest in systems innovation and led to pursuing a formal IT education.
+
+
+- title: Forensic Investigator Lead
+  organization: Hogeschool van Amsterdam (Intensive Program)
+  duration: 2013
+  location: Laval, France / Amsterdam, Netherlands
+  responsibilities:
+    - Selected as one of the top student talents for participation in an advanced forensic investigation program.
+    - Appointed as team leader for a project analyzing the WikiLeaks database with a focus on Ukraine-EU relations.
+    - Applied the Electronic Discovery Reference Model (EDRM) for structured data analysis, evidence handling, and reporting.
+    - Led the top-performing team, earning recognition at an international military intelligence conference in Laval.
+    - Delivered predictive insights that foreshadowed geopolitical developments in Eastern Europe.
+
+
+interests_hobbies:
+  - Technology exploration and experimentation
+  - Organizing events for makers/hackers
+  - Dungeon & Dragons (Storytelling)
+  - Online community management (gaming)
+  - Continuous learning & personal growth
+
+strengths_soft_skills:
+  - Creative problem-solving
+  - Strong storytelling and communication
+  - Motivational leadership and team building
+  - Rapid learner with high adaptability
+  - Effective networker and relationship builder
+  - Entrepreneurial and ambitious
+
+aspirations_goals:
+  income_target:
+    monthly_net: "€9,000"
+  lifestyle:
+    - Freelance career with flexibility for travel across Europe
+    - Location-independent work setup
+    - Balance of meaningful work and exploratory experiences
+    - Continuous professional growth and networking
+  professional_focus:
+    - Fintech solutions, sustainable finance, compliance tools
+    - AI automation and open-source ecosystem integrations
+    - Freelance and entrepreneurial projects leveraging niche expertise
+    
+    skills_matrix:
+  - category: AI & Automation
+    skills:
+      - skill: n8n / automation pipelines
+        proficiency: Advanced
+      - skill: LLM integration (Ollama/OpenWebUI)
+        proficiency: Advanced
+      - skill: Python scripting for AI tasks
+        proficiency: Advanced
+
+  - category: Blockchain & DLT
+    skills:
+      - skill: Tonomy Identity Tools
+        proficiency: Expert
+      - skill: EOSIO / Ethereum
+        proficiency: Advanced
+      - skill: Smart contract design
+        proficiency: Intermediate
+
+  - category: DevOps & Infrastructure
+    skills:
+      - skill: Docker & Kubernetes
+        proficiency: Advanced
+      - skill: GitHub CI/CD
+        proficiency: Advanced
+      - skill: Caddy / Reverse proxy setup
+        proficiency: Intermediate
+
+  - category: Programming Languages
+    skills:
+      - skill: Python
+        proficiency: Advanced
+      - skill: JavaScript
+        proficiency: Advanced
+      - skill: C# / Java SE8 / Bash
+        proficiency: Intermediate
+
+  - category: Data & BI
+    skills:
+      - skill: Supabase / PostgreSQL
+        proficiency: Advanced
+      - skill: Pentaho / Grafana / QlikSense
+        proficiency: Intermediate
+      - skill: Data warehouse design
+        proficiency: Intermediate
+
+  - category: Education & Facilitation
+    skills:
+      - skill: Student mentoring
+        proficiency: Expert
+      - skill: Curriculum development
+        proficiency: Advanced
+      - skill: Workshop design (Agile, SCF, Blockchain)
+        proficiency: Advanced
+
+  - category: Agile & Management
+    skills:
+      - skill: Scrum / SafeScrum
+        proficiency: Expert
+      - skill: Agile transformation leadership
+        proficiency: Advanced
+      - skill: Innovation project design
+        proficiency: Expert
+
+  - category: Forensics & Security
+    skills:
+      - skill: WikiLeaks Forensics
+        proficiency: Advanced
+      - skill: EDRM process use
+        proficiency: Intermediate
+
+  - category: Sustainability & Compliance
+    skills:
+      - skill: CSRD / EUDR mapping
+        proficiency: Advanced
+      - skill: ESG traceability design
+        proficiency: Advanced
+
+education:
+  - degree: BBA (
+    institution: InHolland University of Applied Sciences
+    focus: Business IT / Innovation
+    graduated: 2023
+
+  - program: Forensic Investigation Intensive
+    institution: Hogeschool van Amsterdam
+    year: 2013
+    notes: Team lead for WikiLeaks data analysis project
+    
+    certifications:
+  - name: Oracle SOA 11g Essentials
+  - name: XML Fundamentals
+  - name: Scrum Master (practical experience, no formal cert)
+  - name: Certified Blockchain Fundamentals (in progress or planned)
+
+languages:
+  - Dutch: Native
+  - English: Fluent
+  - German: Basic conversational
+
