@@ -1,0 +1,239 @@
+person:
+  name: Kirsten Coppoolse
+  location: Baarn, Utrecht, Netherlands
+  linkedin: https://www.linkedin.com/in/kirstencoppoolse/
+  current_position:
+    title: Chief Operating Officer
+    company: Open Food Chain
+    start_date: July 2018
+    responsibilities:
+      - Strategic decision-making to enhance company growth
+      - Establishing organizational, financial, and technical structures
+      - Implementing and training team members on SCRUM methodologies
+  previous_experience:
+    - title: Organizer
+      company: Open Food Chain
+      start_date: March 2018
+      end_date: July 2018
+      responsibilities:
+        - Client engagement and communication
+        - Developing internal processes
+        - Coordinating and executing monthly events
+    - title: Head of Marketing, Promotion, and Fundraising
+      company: Metamorphosis Zoetrope
+      start_date: 2016
+      end_date: 2019
+      responsibilities:
+        - Leading marketing and promotional strategies
+        - Managing fundraising initiatives
+        - Showcasing the art project at various Dutch festivals
+    - title: Co-founder
+      company: Blockchain for Society
+      start_date: 2017
+      end_date: 2018
+      responsibilities:
+        - Organizing meetups focused on blockchain's societal impact
+    - title: Community, Event, and Project Manager
+      company: inblock.io
+      start_date: 2017
+      end_date: 2018
+      responsibilities:
+        - Providing consulting, training, and testing services in blockchain technologies
+    - title: Guide
+      company: Artifex
+      start_date: 2015
+      end_date: 2018
+      responsibilities:
+        - Leading educational tours and workshops
+    - title: Freelance Journalist and Editor
+      company: Various Publications
+      start_date: 2013
+      end_date: 2015
+      responsibilities:
+        - Writing and editing articles for various publications
+    - title: Gallery Employee
+      company: Foam Fotografiemuseum Amsterdam
+      start_date: 2013
+      end_date: 2015
+      responsibilities:
+        - Assisting with gallery operations and visitor engagement
+    - title: Intern, Education Department
+      company: Foam Fotografiemuseum Amsterdam
+      start_date: 2012
+      end_date: 2013
+      responsibilities:
+        - Planning educational visits
+        - Preparing workshops and tours
+        - Improving teaching materials
+        - Serving as a museum educator
+    - title: Editor-in-Chief
+      company: Allop Magazine
+      start_date: 2015
+      end_date: 2016
+      responsibilities:
+        - Overseeing editorial content and direction
+    - title: Staff Member
+      company: Unseen Collection
+      start_date: 2014
+      end_date: 2015
+      responsibilities:
+        - Informing visitors about available works
+        - Facilitating connections between visitors and galleries
+education:
+  - institution: Goois Lyceum
+    location: Bussum, Netherlands
+    degree: Gymnasium
+    start_year: 2001
+    end_year: 2007
+  - institution: University of Amsterdam
+    location: Amsterdam, Netherlands
+    degree: Bachelor's in Art History
+    start_year: 2008
+    end_year: 2011
+  - institution: University of Amsterdam
+    location: Amsterdam, Netherlands
+    degree: Master's in Religious Studies
+    start_year: 2016
+    end_year: 2017
+
+strengths:
+  - Strategic Visionary: Excels at identifying long-term goals and formulating plans to achieve them.
+  - Decisive Leader: Makes informed decisions promptly, guiding teams with confidence.
+  - Effective Communicator: Articulates ideas clearly and persuasively, facilitating collaboration.
+  - Efficient Organizer: Streamlines processes to enhance productivity and achieve objectives.
+  - Innovative Thinker: Embraces new ideas and technologies to drive progress.
+  - Resilient Under Pressure: Maintains composure and effectiveness in high-stress situations.
+  - Goal-Oriented: Focuses on achieving measurable outcomes and continual improvement.
+  - Inspiring Motivator: Encourages and energizes team members to perform at their best.
+
+Watchpoints:
+  - Tendency to Overcommit: Kirsten's drive and ambition may lead her to take on too many responsibilities simultaneously, risking burnout and decreased effectiveness.
+  - Impatience with Inefficiency: May become frustrated when processes or individuals hinder progress.
+  - Overly Critical: Tends to set high standards, which can lead to excessive scrutiny of others' work.
+  - Reluctance to Delegate: Prefers to maintain control over tasks, potentially limiting team autonomy.
+  - Emotional Detachment: Focuses on logic and outcomes, sometimes overlooking emotional considerations.
+  - Resistance to Routine: May become bored with repetitive tasks, seeking constant challenges.
+  - Difficulty Accepting Failure: Struggles with setbacks, viewing them as obstacles rather than learning opportunities.
+  - Tendency to Dominate: May overshadow others in discussions, limiting diverse input.
+  - Risk of Burnout: High drive and commitment can lead to overextension and stress.
+
+interests:
+  - Traveling
+  - Spending quality time with family and friends
+  - Visiting museums and attending ballet performances
+  - Vintage shopping for unique clothing items
+  - Listening to engaging stories and narratives
+
+skills:
+  - Professional writing and editing
+  - Information research and categorization
+  - Leading and facilitating meetings
+  - Focused collaboration and teamwork
+  - Engaging in strategic games like Dungeons & Dragons
+  - Understanding audience preferences in reading materials
+
+ikigai_map:
+  what_you_love:
+    - Discovering new cultures and perspectives through travel
+    - Curating and experiencing art, museums, and ballet
+    - Listening to and crafting stories with emotional depth
+    - Engaging intellectually through games like Dungeons & Dragons
+    - Shopping for vintage fashion as personal expression
+    - Meaningful connection with friends and family
+
+  what_you_are_good_at:
+    - Professional, persuasive writing
+    - Synthesizing complex information into accessible formats
+    - Leading structured yet dynamic meetings
+    - Organizing teams and creating clarity under pressure
+    - Understanding audience needs in written and spoken formats
+    - Categorization, planning, and execution
+
+  what_the_world_needs:
+    - Ethical, transparent leadership in blockchain and tech
+    - Structures that bridge creativity and operational rigor
+    - Better communication of complex systems to non-experts
+    - Tools for civic engagement and cultural cohesion
+    - Empowered female leadership in innovation spaces
+
+  what_you_can_be_paid_for:
+    - Executive leadership in mission-driven startups or NGOs
+    - Strategy and operations consulting
+    - Editorial direction, content strategy, or narrative design
+    - Workshop facilitation and stakeholder alignment
+    - Research, synthesis, and writing for thought leadership
+
+  intersections:
+    passion: # what_you_love ∩ what_you_are_good_at
+      - Storytelling through culture, games, and professional writing
+      - Facilitating narrative-driven collaboration
+      - Guiding learning experiences with both rigor and warmth
+
+    profession: # what_you_are_good_at ∩ what_you_can_be_paid_for
+      - Strategic leadership roles combining writing, analysis, and team facilitation
+      - High-level communication roles in complex domains like blockchain or sustainability
+
+    vocation: # what_you_can_be_paid_for ∩ what_the_world_needs
+      - Building or scaling transparent, ethical organizations
+      - Translating technical or abstract goals into human, usable structures
+      - Acting as a public-facing communicator for societal innovation
+
+    mission: # what_you_love ∩ what_the_world_needs
+      - Advocating for cultural literacy and access to beauty
+      - Inspiring others through authentic leadership and aesthetics
+      - Empowering people to engage with systemic change through narrative
+
+  tensions_and_contradictions:
+    - Professional leadership often demands routine, which may drain Kirsten's need for cultural and creative input.
+    - The public communicator role may expose her to emotionally demanding environments, which she may prefer to manage with intellectual detachment.
+    - She thrives in structured collaboration but may struggle with loosely organized creative communities.
+    - Deep focus and high standards can inhibit delegation, limiting scalability.
+    - She enjoys performance and presence but may feel conflicted when authenticity is diluted by branding or PR needs.
+    - Motivated by impact and story, she may undervalue operational detail work that's crucial for long-term effectiveness.
+
+
+ preferred_work_method:
+  - Structured collaboration with clear roles and responsibilities
+  - Agile methodologies like SCRUM for iterative progress
+  - Autonomy in managing tasks with regular strategic alignment
+  - Working in high-trust environments that encourage initiative
+  - Hybrid work style with a balance of in-person and remote collaboration
+
+motivators:
+  - Making a tangible impact on society through innovative systems
+  - Leading teams to achieve ambitious goals
+  - Learning and mastering new intellectual challenges
+  - Building strong, visionary partnerships
+  - Seeing progress from ideas to execution
+  - Recognition for strategic contributions and leadership
+
+stress_triggers:
+  - Ambiguity in roles or expectations
+  - Inefficiency or slow decision-making processes
+  - Lack of commitment or accountability in team members
+  - Being micromanaged or constrained in leadership capacity
+  - Extended periods without creative or intellectual stimulation
+professional_summary:
+  - Vision-driven operational leader with a strong background in cultural and tech-oriented organizations.
+  - Skilled at designing organizational structures and guiding strategic growth in early-stage initiatives.
+  - Excels in agile team management, stakeholder coordination, and cross-functional leadership.
+  - Blends a creative eye with structured thinking to align mission-driven work with practical outcomes.
+
+skills:
+  - Strategic planning and execution
+  - Organizational design and restructuring
+  - Agile methodologies (SCRUM facilitation and training)
+  - Professional writing and content development
+  - Public speaking and storytelling
+  - Team leadership and coaching
+  - Research and analytical synthesis
+  - Event coordination and stakeholder engagement
+  - Creative direction and cultural programming
+
+professional_growth_targets:
+  - Deepen technical fluency in blockchain and AI applications for societal use
+  - Expand international leadership and cross-cultural management experience
+  - Formalize public speaking and media presence on sustainability and innovation
+  - Develop mentorship programs for young professionals in mission-driven startups
+  - Integrate systems thinking and regenerative frameworks into operations strategy
+
