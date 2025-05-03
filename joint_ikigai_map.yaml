@@ -1,0 +1,236 @@
+joint_ikigai_map:
+  what_you_love:
+  - Designing systems that help others grow
+  - Meaningful connection and shared learning
+  - Curating and experiencing art and ideas
+  - Exploring ethical and sustainable tech
+  - Storytelling through culture, code, and games
+  - Mentoring and guiding teams
+  what_you_are_good_at:
+  - Facilitating agile innovation
+  - Strategic and systems thinking
+  - Building and motivating multidisciplinary teams
+  - Prototyping ideas and simulations
+  - Synthesizing complexity into clarity
+  - Professional communication and storytelling
+  what_the_world_needs:
+  - Tools for sustainable decision-making
+  - Civic engagement and digital equity
+  - Open infrastructures for learning and collaboration
+  - Ethical, transparent systems and leadership
+  - Stronger bridges between art, science, and systems
+  what_you_can_be_paid_for:
+  - Narrative-based stakeholder alignment
+  - Agile innovation and leadership workshops
+  - Open-source infrastructure strategy
+  - R&D consulting for mission-driven organizations
+  - Sustainability impact reporting and tools
+  intersections:
+    passion:
+    - Guiding transformation through story, systems, and simulation
+    - Helping people see the beauty and possibility in complexity
+    profession:
+    - Co-designing agile labs and learning environments
+    - Delivering structured workshops and strategy sessions
+    vocation:
+    - Building public tools for sustainable and ethical governance
+    - Leading cross-sector innovation projects
+    mission:
+    - Empowering people to act ethically with clarity and confidence
+    - Turning good practices into competitive, cultural, and civic value
+  tensions_and_watchpoints:
+  - Christiaan prefers rapid ideation; Kirsten prefers structured rollout — balance
+    needed
+  - Both can over-extend when highly motivated; burnout risk if boundaries aren't
+    respected
+  - Need shared clarity on which projects are 'public service' vs. 'paid work'
+  - Kirsten may seek more structure than Christiaan prefers in unbounded R&D phases
+  shared_work_modes:
+  - High-trust collaboration with flexible roles
+  - Project-based delivery with clear goals
+  - Blending cultural storytelling with system innovation
+  - Alternating visionary and operational leadership
+  
+  joint_paid_offers:
+  - name: Agile Transformation for Mission-Driven Teams
+    audience: Social enterprises, NGOs, universities, incubators
+    description: >
+      A hands-on training and coaching program that introduces agile methods, 
+      safe-to-fail systems, and sustainability-oriented workflows to mission-driven teams.
+    formats:
+      - format: Workshop Series (2–4 sessions)
+        deliverables:
+          - Intro to Agile + SafeScrum with sustainability lens
+          - Systems mapping + feedback loops
+          - Custom agile templates + team canvas
+        price_eur: 4000+
+
+      - format: 1-Day Simulation + Strategy
+        deliverables:
+          - Simulation (e.g. Blockchain Beer Game or sustainability design jam)
+          - Strategy debrief and team next steps
+        price_eur: 2000+
+
+  - name: Stakeholder Alignment Through Narrative & Systems Design
+    audience: Cross-sector projects, ecosystem builders, public-private partnerships
+    description: >
+      Align internal or external stakeholders using facilitated workshops, 
+      visual mapping, and narrative frameworks grounded in real systems thinking.
+    deliverables:
+      - Alignment session with storytelling & systems map
+      - Role clarity matrix + relationship diagrams
+      - Shared visual narrative for buy-in or funding
+    price_eur: 3000–6000 depending on scope
+
+  - name: Sustainable Practice Intelligence Hub (Prototype)
+    audience: Governments, large NGOs, sustainability consortiums
+    description: >
+      A prototype or concept document for a real-time dashboard or toolkit 
+      that maps, validates, and promotes practices that turn sustainability 
+      into a competitive advantage.
+    deliverables:
+      - Stakeholder/user research
+      - YAML practice schema or impact model
+      - Strategic narrative + architecture sketch
+      - Optional light R-based dashboard
+    price_eur: 6000+
+
+  - name: Learning Infrastructure for Ethical Innovation Labs
+    audience: Academic institutions, accelerators, R&D labs
+    description: >
+      Design or redesign a lab environment that nurtures ethical, open, 
+      and agile innovation — including curriculum, mentorship, and tech stack planning.
+    deliverables:
+      - Lab vision and system map
+      - Agile education templates + team self-eval formats
+      - Modular open-source infrastructure proposal
+      - Faculty onboarding or partner pitch support
+    price_eur: 5000+
+
+  - name: Ethics-by-Design Workshop for Tech & Policy Teams
+    audience: Public sector, startups, sustainability initiatives
+    description: >
+      A combined storytelling + strategy session where teams explore 
+      how to embed ethics and long-term outcomes into design decisions 
+      using real-world scenarios.
+    deliverables:
+      - Scenario facilitation + moral modeling exercises
+      - Outcome-driven decision canvas
+      - Follow-up reading kit or playbook
+    price_eur: 1500–3000
+
+
+joint_paid_offers:
+  - name: Sustainable Culture Activation
+    audience: SMEs, sustainability teams, HR leaders, organizational change units
+    description: >
+      A full-cycle culture intervention designed to align team behavior with sustainability values.
+      Combines surveys, hands-on simulations (like the Beer Game), and agile culture tools
+      to create clarity, buy-in, and shared habits across teams.
+    deliverables:
+      - Team sustainability mindset survey (customizable)
+      - 1–2 workshops (simulation + reflection + action planning)
+      - Visual culture map (values vs. blockers vs. motivators)
+      - Follow-up habit board or sprint template
+    tools:
+      - Custom YAML-based survey templates
+      - R Studio for survey analysis and dashboard
+      - Beer Game or sustainability game simulation
+      - Agile team canvases and retrospectives
+    duration: 2–4 weeks
+    starting_price_eur: 4500
+
+  - name: Workforce Reset & Reboarding Program
+    audience: Organizations facing restructuring, digital transformation, or ESG-driven change
+    description: >
+      Support teams through difficult transitions with empathy, clarity, and actionable guidance.
+      Combines storytelling, system mapping, and team debriefs to help employees adapt, reengage, and thrive.
+    deliverables:
+      - Change perception survey (trust, clarity, confidence)
+      - Team diagnostics and role mapping
+      - Manager toolkit for transparent communication
+      - Optional onboarding/reboarding guide for new structures
+    tools:
+      - Anonymous feedback forms
+      - Notion or Markdown-based onboarding tracks
+      - Role cards and team charter templates
+    duration: 3–6 weeks (modular)
+    starting_price_eur: 6000
+
+  - name: Team Values & Motivation Scan
+    audience: Founders, people teams, faculty, or early-stage leadership groups
+    description: >
+      Understand what really drives your team and what’s holding them back.
+      A simple, deep scan that visualizes team alignment, friction points, and hidden strengths — with actionable insights.
+    deliverables:
+      - Qualitative & quantitative survey pack (values, blockers, flow state)
+      - 1-page visual motivation map
+      - Team or leadership debrief session
+      - Action proposal or culture playbook extract
+    tools:
+      - R Studio for analysis
+      - Visual reporting with Quarto or Mermaid
+      - Team persona models (YAML-based)
+    duration: 1–2 weeks
+    starting_price_eur: 2500
+paid_offers:
+  - name: Self-Hosted AI Assistant & Report Automation
+    audience: Researchers, NGOs, ethical startups, consultants
+    description: >
+      Set up a secure, privacy-first AI system that answers questions, summarizes documents,
+      and generates automated reports from spreadsheets or dashboards. No external API costs.
+    deliverables:
+      - Dockerized deployment of OpenWebUI + Ollama + n8n
+      - Automated flow for spreadsheet/PDF report generation
+      - Setup of 1–3 prompt templates for use cases (e.g. compliance, finance, HR)
+      - Documentation + 1-hour onboarding session
+    tools:
+      - n8n, Ollama, OpenWebUI, Supabase, Python
+    duration: 5–7 days
+    starting_price_eur: 2500
+
+  - name: CSRD / EUDR Supply Chain Risk Dashboard
+    audience: SMEs, importers, sustainable brands, incubators
+    description: >
+      A functional prototype dashboard that maps your supply chain data
+      against CSRD/EUDR indicators and flags potential compliance gaps.
+    deliverables:
+      - Configurable dashboard (hosted or embedded)
+      - Uploadable or linked data input (CSV, Notion, Google Sheets)
+      - Risk/impact estimation logic using custom YAML schemas
+      - 2-hour strategic consultation with exportable PDF summary
+    tools:
+      - Supabase, Quarto/React, YAML models, VCH Infra elements
+    duration: 7–10 days
+    starting_price_eur: 4000
+
+  - name: Agile Sustainability Simulation Workshop
+    audience: Universities, NGOs, logistics firms, corporate innovation teams
+    description: >
+      A 1- to 2-day hands-on training where participants simulate
+      sustainable supply chain decisions using your Blockchain Beer Game
+      and real-world agile practices.
+    deliverables:
+      - Customizable simulation (logistics or compliance scenario)
+      - Workshop delivery (in-person or online)
+      - Debrief, team feedback, and next-step templates
+    tools:
+      - R Studio, board-based simulation, agile frameworks
+    duration: 1–2 days (+ prep)
+    starting_price_eur: 2000
+
+  - name: Open Infrastructure Strategy Session
+    audience: Research labs, accelerators, ecosystem builders
+    description: >
+      A 2-session consultation where I map your digital infrastructure needs and
+      design a modular, open-source setup to match your goals — including hosting, automation,
+      team workflows, and data architecture.
+    deliverables:
+      - Infra architecture diagram (PDF or Miro/Notion)
+      - Component-by-component stack proposal
+      - Risk/cost estimation and migration advice
+    tools:
+      - Caddy, Docker, Supabase, DAT Linux, R Studio, Obsidian, GitHub
+    duration: 3–5 hours (1 week cycle)
+    starting_price_eur: 1200
+
