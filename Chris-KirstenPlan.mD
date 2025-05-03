@@ -117,7 +117,6 @@ If you keep this offer:
 * Scope it down even more:
 
   * **1 demo + 1 use case mapping + 1 values conversation**
-  * Drop the "team charter" unless requested
 
 * Position it **as an add-on or follow-up** to Agile or Culture Activation.
   It works better once you’ve earned trust, not as the entry point.
