@@ -143,16 +143,41 @@ graph TB
 
 ## Activity Windesheim
 
+| Activity at Windesheim                                                | Aligns with Self-Image | Enjoys Doing It | Notes                                                                 |
+|-----------------------------------------------------------------------|------------------------|------------------|-----------------------------------------------------------------------|
+| Leading the Spark Living Lab                                         | ✅ Yes                 | ✅ Yes           | Combines autonomy, systems work, and collaboration                   |
+| Designing blockchain supply chain simulations                        | ✅ Yes                 | ✅ Yes           | High competence and strategic relevance                              |
+| Facilitating agile transformation in logistics education             | ✅ Yes                 | ✅ Yes           | Matches coaching and systemic change goals                           |
+| Supporting supply chain finance digitization                         | ✅ Yes                 | ✅ Yes           | Uses skills in analytics and strategic design                        |
+| Representing Windesheim externally (e.g. conferences, EU projects)   | ⚠️ Sometimes          | ❓ Mixed         | May trigger imposter feelings if autonomy or relatedness is low     |
+| Administrative coordination (meetings, reporting)                    | ❌ No                  | ❌ No            | Low autonomy, drains energy, feels misaligned                       |
+| Repairing team trust after conflict                                  | ✅ Yes                 | ⚠️ Sometimes     | Fits values, but emotionally heavy and vulnerable                   |
+| Enforcing top-down curricular frameworks                             | ❌ No                  | ❌ No            | Conflicts with autonomy and sense of purpose                         |
+| Mentoring students on entrepreneurship                               | ✅ Yes                 | ✅ Yes           | Fulfills relatedness and competence                                  |
+| Acting as bridge between lectoraten or departments                   | ⚠️ Partially          | ⚠️ Mixed         | Valuable but can compromise autonomy if not well-scoped             |
+| Running AI literacy workshops (OpenWebUI, Ollama)                    | ✅ Yes                 | ⚠️ Sometimes     | Matches mission, but fragile stack undermines confidence            |
 
-| Activity at Windesheim                                                        | Agree with it? | Fits Self-Image? | Notes                                                                 |
-|-------------------------------------------------------------------------------|----------------|------------------|-----------------------------------------------------------------------|
-| Leading the Spark! Living Lab                                                 | ✅              | ✅                | Initiated and shaped this innovation lab yourself                     |
-| Designing blockchain supply chain simulations                                 | ✅              | ✅                | Aligned with tech and sustainability                                  |
-| Agile transformation projects in logistics education                          | ✅              | ✅                | Change agent and systems thinker                                      |
-| Supporting digitization of supply chain finance education                     | ✅              | ✅                | Matches research and fintech work                                     |
-| Conducting forensic COVID-19 research with students                           | ✅              | ✅                | Rapid adaptation, involved students                                   |
-| Representing Windesheim externally (conferences, panels, EU projects)         | ❓              | ❓                | Depends on framing and autonomy                                       |
-| Administrative coordination (e.g., planning, reporting, meetings)             | ⚠️              | ❌                | Draining/admin heavy, misaligned                                      |
-| Enforcing top-down decisions or curriculum constraints                        | ❌              | ❌                | Contradicts autonomy and co-creation                                  |
-| Mentoring entrepreneurial student projects                                    | ✅              | ✅                | Coaching and innovation-aligned                                       |
-| Acting as liaison between different lectoraten or departments                 | ✅              | ⚠️                | Helpful but risks overextension                                       |
+## Reality
+
+| Activity at Windesheim                                                | Still Doing It? | Aligns with Self-Image | Enjoys Doing It | Should Continue? | Notes                                                                 |
+|-----------------------------------------------------------------------|------------------|------------------------|------------------|------------------|-----------------------------------------------------------------------|
+| Leading the Spark Living Lab                                         | ❌ No            | ✅ Was aligned         | ✅ Was enjoyable  | ❌ No             | Replaced by Value Chain Hackers; now sidelined to tech support       |
+| Designing blockchain supply chain simulations                        | ❌ No            | ✅ Was aligned         | ✅ Was enjoyable  | ❌ No             | Ended 2 years ago                                                     |
+| Facilitating agile transformation in logistics education             | ❌ No            | ✅ Was aligned         | ❌ Not supported  | ❌ No             | Colleagues resisted; control taken away                               |
+| Supporting supply chain finance digitization                         | ⚠️ Partially     | ✅ Intention aligns     | ❌ Not supported  | ⚠️ Reframe needed | Trying to build ecosystems but no institutional buy-in                |
+| Representing Windesheim externally (e.g., conferences, EU projects)  | ⚠️ Occasionally  | ⚠️ Mixed context        | ⚠️ Mixed         | ⚠️ Carefully      | May be worth doing on own terms, not under Windesheim banner         |
+| Administrative coordination (meetings, reporting)                    | ❌ No            | ❌ Misaligned          | ❌ No             | ✅ Not anymore    | Removed from admin roles                                              |
+| Repairing team trust after conflict                                  | ❌ No trust      | ✅ Aligns in principle  | ❌ Emotionally heavy | ❌ No             | No functional trust to repair at this point                          |
+| Mentoring students on entrepreneurship                               | ❌ Prohibited    | ✅ Aligned              | ✅ Miss it        | ⚠️ Only if role changes | Barred from initiating contact, can only wait to be approached     |
+| Acting as bridge between lectoraten or departments                   | ⚠️ Informally    | ⚠️ Partially            | ⚠️ Mixed         | ⚠️ If low effort  | Still happens naturally, but not officially recognized                |
+| Running AI literacy workshops (OpenWebUI, Ollama)                    | ❌ One-off only  | ✅ Aligned in theory    | ❌ Unrewarding    | ❌ Not now         | One session allowed, results poor, stack fragile                     |
+
+## Current Real Activities
+| Current Activity                                                    | Aligns with Self-Image | Feels Fulfilling? | Sustainable? | Notes                                                                 |
+|---------------------------------------------------------------------|------------------------|-------------------|--------------|-----------------------------------------------------------------------|
+| Trying to make new projects                                         | ✅ Yes                 | ⚠️ Sometimes       | ⚠️ At risk    | Driven by autonomy and purpose, but undermined by lack of backing     |
+| Building an A.I. system for students                                | ✅ Yes                 | ⚠️ Mixed           | ❌ No         | Aligned in mission, but blocked from student access and feedback      |
+| Building infrastructure using own resources                         | ✅ Yes                 | ⚠️ Frustrating     | ❌ No         | Competent work, but financial and emotional cost is high              |
+| Paying for infrastructure personally                                | ❌ No                  | ❌ No              | ❌ No         | Violates self-care and balance principles                            |
+| Doing personal planning to stay on track                            | ✅ Yes                 | ✅ Yes             | ✅ Yes        | Shows resilience and self-discipline                                 |
+| Making presentations to convince colleagues                         | ⚠️ Partially           | ❌ Discouraging    | ❌ No         | Misaligned power dynamic; rarely leads to change                     |
