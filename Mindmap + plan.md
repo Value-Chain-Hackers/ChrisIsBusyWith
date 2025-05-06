@@ -181,3 +181,50 @@ graph TB
 | Paying for infrastructure personally                                | ❌ No                  | ❌ No              | ❌ No         | Violates self-care and balance principles                            |
 | Doing personal planning to stay on track                            | ✅ Yes                 | ✅ Yes             | ✅ Yes        | Shows resilience and self-discipline                                 |
 | Making presentations to convince colleagues                         | ⚠️ Partially           | ❌ Discouraging    | ❌ No         | Misaligned power dynamic; rarely leads to change                     |
+
+
+## Welke Taken & activiteiten horen er bij de rol die jij voor jezelf wilt scheppen
+### Dan wil ik niet dat je " leading the lab zegt maar 
+Stel dat jij zegt de beste crossaint bakker wilt worden 
+Dan is niet jou taak brood bakken maar dan is de taak meel afwegen, Kneden van Deeg. 
+Wekelijkse vergardering met Collega; Presenteren van Aspect X; 
+
+Ik wil dat je dit doet zonder hulp van Chat-GPT; 
+
+Ik vertrouw mezelf niet om heel exact en eerlijk te zijn, dus daarom dat ik terugval op analyse tools;
+Ik heb een leuke fantasie, maar als hij niet gegrond is in realiteit, dat is het gewoon onzin.
+Dus het is erg moeilijk een lijst te maken met een ideaal beeld zoals jij dat wilt, omdat het in mijn mening onzin verkopen is aan mezelf.
+Maar here goes;
+
+## Chris the General / President / Prohpet 
+
+Iemand, die voor de sake van gerechtigheid, eerlijkheid en autonomie, de leiding neemt om hiermee de wereld te veranderen.
+Die gospel verteld, en mensen hierin meeneemt; Die traditie en consistentie dodelijk serious neemt; Maar omdat het bewezen is, niet omdat hij "denkt" dat het een goed idee is.  
+Om mensen ad-hoc bij elkaar te brengen en om te brengen naar een gezamelijk doel.
+Wat ik altijd al mijn hele leven heb gedaan, het faciliteren van dromen, en het genot van een plan wat gezamelijk uitgevoerd word; 
+Het spelen met LEGO; Het spelen van DND; Het spelen van computerspellen; 
+
+Leiderschap:  **De Profeet van de toekomst**
+- Visies maken, en deze met een combinatie van entertainment (Muziek, Eenheid's team-exciserzises) en enthausiasme (fantasie story telling) waar maken.
+- Gekke ideen proberen met andere mensen; want normale ideen zijn niet alleen saai, maar vaak ook compleet nutteloos. 
+- Mezelf compleet overgeven aan een doel of realiteit, met veel bombastische gedragingen; De Characikatuur van de Man in een Exotisch Pak wat eruit springt;
+- Diligeren en het maken van sub-groepen zodat de projecten daadwerkelijk worden uitgevoerd en dat het schaalbaar word en een zelf-forfilling prophesy.
+- Feedback verzamelen en allignment om te zorgen dat iedereen nog wel meedoet en het fijn heeft.
+- Het faciliteren van vooruitgang zodat het doel behaald word. 
+- Het verzamelen van middelen (financien) om dit te veroorzaken, zodat problemen (voornamelijk administratief of proces managers die niks bijdragen e.g burocraten te kunnen omzeilen)
+
+- Presenteren / Spreken:
+- - Ik vind het fijn om in de belangstelling te staan: maar alleen als het relevant is; ik wil niet afgaan of dat mijn aanwezigheid ongewenst is: E.g DND spelen is erg leuk, en ik vind het fijn om helemaal op te gaan in mijn character; maar vaak heb ik het idee dat bv Brian zich eraan irriteerd; en sterker nog dan irrupteerd hij mij. En omdat ik eerlijk ben en zelf-bewust en graag wil dat er voortgang is, kies ik ervoor om het eerder Eens te zijn zodat we verder gaan, dan dat ik mijn gelijk haal ten koste van het spel; ik wil niet gezien worden " als moeilijk "  of " een blaaskaak ". Ik word eigenlijk in mijn mening hierdoor hard gepest; 
+Dit is ook aanwezig in windesheim, waarbij Michiel mij interrupteerd (soms erg hard) waarbij het in de eerste instantie goed is, en ik het zelfs aanmoedig, maar over tijd heen schopt het mijn zelfvertrouwen weg, en ik durf niet meer naar buiten te treden.
+- Verteld verhalen die gewenst zijn en relevant; Die boeiend zijn en niet overkomen als grootspraak; Die eigenlijk niet helemaal van mij zijn.
+
+A littlebit like Jordan Peterson: Honesty wrapped in Emotion; 
+
+- Appears: Calm en collected:Even though his mind is racing. 
+- Consistant with output; slowly growing over time; Is his word;
+- Says no to himself and to others, to keep his time free;
+- Excited about what he is busy with, and able to show it easily; !! problem: I am afraid of showing myself and saying things as I think people will be extremely judgemental and I have been bullied in the past (and still am bullied right now, but this is **not** their fault, I find this behavoir)
+- Has a blog and journal that he keeps up daily and shows to others; Other people follow him in this;
+- Knows how others work, spends a lot of time *listening* and *analysing* but not speaking;
+
+
