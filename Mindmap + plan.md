@@ -1,7 +1,7 @@
 
 ## Mindmap
 
-```{mermaid}
+```mermaid
 graph TD
     %% Central Idea
     A[Central Concept]
