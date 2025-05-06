@@ -49,82 +49,94 @@ Chris envisions himself as a grounded, capable, and respected individual who:
 ## Mindmap
 
 ```mermaid
-graph TD
+graph TB
     Chris[Chris: Ideal Self]
 
-    %% Core Needs
+    %% Core Domains
     Chris --> Autonomy
     Chris --> Competence
     Chris --> Relatedness
     Chris --> Mindset
 
-    %% Autonomy Branch
-    Autonomy --> A1[Lives deliberately]
-    A1 --> A1a[Weekly planning session Sunday reset]
-    A1 --> A1b[Document goals in personal system]
+    %% --- AUTONOMY ---
+    subgraph Autonomy [🧭 Autonomy - Acting with Purpose]
+        A1[Lives deliberately]
+        A2[Sets boundaries clearly]
+        A3[Chooses aligned projects]
+        A4[Walks away from misaligned roles]
 
-    Autonomy --> A2[Sets boundaries clearly]
-    A2 --> A2a[Practice saying no to low-priority asks]
-    A2 --> A2b[Define work/life hours visibly]
+        A1 --> A1a[Weekly planning session - Sunday reset]
+        A1 --> A1b[Document goals in personal system]
 
-    Autonomy --> A3[Chooses aligned projects]
-    A3 --> A3a[Score opportunities by value match]
-    A3 --> A3b[Keep a “Why I said yes” log]
+        A2 --> A2a[Say no to low priority asks]
+        A2 --> A2b[Define work and life hours visibly]
 
-    Autonomy --> A4[Walks away from misaligned roles]
-    A4 --> A4a[Recognize energy-draining commitments]
-    A4 --> A4b[Use “exit script” to leave gracefully]
+        A3 --> A3a[Score opportunities by value match]
+        A3 --> A3b[Keep a why I said yes log]
 
-    %% Competence Branch
-    Competence --> C1[Delivers reliably]
-    C1 --> C1a[3 priority tasks every day]
-    C1 --> C1b[Weekly review with accountability partner]
+        A4 --> A4a[Recognize energy draining commitments]
+        A4 --> A4b[Use exit script to leave gracefully]
+    end
 
-    Competence --> C2[Masters key skills]
-    C2 --> C2a[Complete PM or data viz course]
-    C2 --> C2b[Apply weekly in real projects]
+    %% --- COMPETENCE ---
+    subgraph Competence [🛠️ Competence - Delivering with Skill]
+        C1[Delivers reliably]
+        C2[Masters key skills]
+        C3[Turns ideas into outcomes]
+        C4[Keeps promises]
 
-    Competence --> C3[Turns ideas into outcomes]
-    C3 --> C3a[Run idea-to-impact sprints]
-    C3 --> C3b[Keep a done list of shipped outputs]
+        C1 --> C1a[Focus on 3 priority tasks daily]
+        C1 --> C1b[Weekly review with accountability buddy]
 
-    Competence --> C4[Keeps promises]
-    C4 --> C4a[Track commitments in single dashboard]
-    C4 --> C4b[Limit verbal promises — make them measurable]
+        C2 --> C2a[Complete project management or data course]
+        C2 --> C2b[Apply new skill in active work]
 
-    %% Relatedness Branch
-    Relatedness --> R1[Builds trust]
-    R1 --> R1a[Follow through consistently]
-    R1 --> R1b[Repair missteps openly]
+        C3 --> C3a[Run idea to impact sprints]
+        C3 --> C3b[Maintain a done list of outputs]
 
-    Relatedness --> R2[Nurtures deep connections]
-    R2 --> R2a[Monthly call or visit with key people]
-    R2 --> R2b[Send one unsolicited encouragement per week]
+        C4 --> C4a[Track promises in single dashboard]
+        C4 --> C4b[Make measurable and limited commitments]
+    end
 
-    Relatedness --> R3[Communicates maturely]
-    R3 --> R3a[Use nonviolent language “I feel… when…”]
-    R3 --> R3b[Pause before replying in conflict]
+    %% --- RELATEDNESS ---
+    subgraph Relatedness [🤝 Relatedness - Connecting Authentically]
+        R1[Builds trust]
+        R2[Nurtures deep connections]
+        R3[Communicates maturely]
+        R4[Feels valued in relationships]
 
-    Relatedness --> R4[Feels valued in close relationships]
-    R4 --> R4a[Ask “what’s working for you in us?”]
-    R4 --> R4b[Celebrate relational progress]
+        R1 --> R1a[Follow through consistently]
+        R1 --> R1b[Repair missteps openly]
 
-    %% Mindset Overlay
-    Mindset --> M1[Disciplined but kind to self]
-    M1 --> M1a[Treat yourself like someone you’re responsible for helping]
-    M1 --> M1b[Don’t shame mistakes — use them as info]
+        R2 --> R2a[Have monthly call with close people]
+        R2 --> R2b[Send unexpected encouragements weekly]
 
-    Mindset --> M2[Balances vision with realism]
-    M2 --> M2a[Break big ideas into 1–2 week goals]
-    M2 --> M2b[Track what’s working not just what’s missing]
+        R3 --> R3a[Use I feel when format]
+        R3 --> R3b[Pause before replying in conflict]
 
-    Mindset --> M3[Accepts failure as growth]
-    M3 --> M3a[Keep a “lesson learned” journal]
-    M3 --> M3b[Share small failures publicly]
+        R4 --> R4a[Ask what is working between us]
+        R4 --> R4b[Celebrate relationship growth]
+    end
 
-    Mindset --> M4[Practices reflection and focus rituals]
-    M4 --> M4a[5-minute nightly review What went well?]
-    M4 --> M4b[Weekly solitude or nature walk]
+    %% --- MINDSET ---
+    subgraph Mindset [🧠 Mindset - Becoming Trustworthy to Self]
+        M1[Disciplined but kind to self]
+        M2[Balances vision with realism]
+        M3[Accepts failure as growth]
+        M4[Practices reflection and rituals]
+
+        M1 --> M1a[Treat yourself like someone you care for]
+        M1 --> M1b[Use mistakes as learning material]
+
+        M2 --> M2a[Break big goals into short chunks]
+        M2 --> M2b[Track what works not just what is missing]
+
+        M3 --> M3a[Maintain a failure lessons journal]
+        M3 --> M3b[Talk openly about small failures]
+
+        M4 --> M4a[Do a five minute nightly review]
+        M4 --> M4b[Spend solo time weekly in nature or reflection]
+    end
 
 
 ```
